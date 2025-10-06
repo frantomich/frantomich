@@ -8,7 +8,7 @@ Welcome to my playground!
 
 I am passionate about science, technology and engineering. 🔬 🖥️ ⚙️
 
-Enjoy my open repositories at your own risk. 😅
+If you're like me, enjoy my open repositories at your own risk. 😅
 
 ---
 
