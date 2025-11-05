@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 Welcome to my playground!
 
-I am passionate about science, technology and engineering. 🔬 🖥️ ⚙️
+I am passionate about science, technology and engineering. 🔬 🖥️ 🚀
 
 If you're like me, enjoy my open repositories at your own risk. 😅
 
